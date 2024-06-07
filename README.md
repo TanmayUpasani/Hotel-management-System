@@ -1,0 +1,1 @@
+The code is a simple hotel management system that allows room booking, food ordering, and checking out. It also saves the state of the hotel (bookings and orders) to a file and loads it on startup. The system supports four types of rooms and provides a basic interface for customers to interact with.
